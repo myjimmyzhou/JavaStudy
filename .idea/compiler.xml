@@ -6,8 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="DataStruct" />
         <module name="JavaAlgirithm" />
+        <module name="DataStruct" />
         <module name="MultiThreading" />
       </profile>
     </annotationProcessing>
